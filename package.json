@@ -2,8 +2,7 @@
   "name": "json-server-demonpm install json-server --save-dev",
   "version": "1.0.0",
   "main": "index.js",
-  "author": "Leigh Halliday",
-  "license": "MIT",
+  "author": "Tiago Roque",
   "devDependencies": {
     "json-server": "^0.17.1"
   }
