@@ -1,9 +1,0 @@
-{
-  "name": "json-server-demonpm install json-server --save-dev",
-  "version": "1.0.0",
-  "main": "index.js",
-  "author": "Tiago Roque",
-  "devDependencies": {
-    "json-server": "^0.17.1"
-  }
-}
