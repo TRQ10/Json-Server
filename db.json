@@ -1,0 +1,110 @@
+{
+  "funcionarios": [
+    {
+      "id": 1,
+      "nome": "Tiago",
+      "idade": 21,
+      "cargo": "Atendente"
+    },
+    {
+      "id": 2,
+      "nome": "Rogerio",
+      "idade": 48,
+      "cargo": "Hamburgueiro"
+    },
+    {
+      "id": 3,
+      "nome": "Bruno",
+      "idade": 21,
+      "cargo": "Graçom"
+    },
+    {
+      "id": 4,
+      "nome": "Natalia",
+      "idade": 21,
+      "cargo": "Auxiliar de Hamburgueiro"
+    }
+  ],
+  "hamburguers": [
+    {
+      "id": 1,
+      "nome": "Montanha",
+      "ingredientes": [
+        "blend bovino",
+        "ovo",
+        "cebola caramelizada",
+        "Mostarda com Mel",
+        "pimenta malagueta",
+        "Pão Brioche"
+      ],
+      "preço": "R$ 55,99"
+    },
+    {
+      "id": 2,
+      "nome": "Vegie Frinedly",
+      "ingredientes": [
+        "blend de lentilha",
+        "pepino",
+        "Alface",
+        "tomate",
+        "Cebola",
+        "molho inglês",
+        "Pão Brioche"
+      ],
+      "preço": "R$ 75,99"
+    },
+    {
+      "id": 3,
+      "nome": "Fish and Chips",
+      "ingredientes": [
+        "blend marinho",
+        "tomate",
+        "Alface",
+        "cebola",
+        "picles",
+        "Limão",
+        "Pão Brioche"
+      ],
+      "preço": "R$ 35,99"
+    },
+    {
+      "id": 4,
+      "nome": "Heart Stopper",
+      "ingredientes": [
+        "blend bovino",
+        "bacon",
+        "Cebola empanada",
+        "Queijo Empanado",
+        "Barbecue",
+        "Pão Brioche selado na manteiga"
+      ],
+      "preço": "R$ 67,99"
+    }
+  ],
+  "bebidas": [
+    {
+      "id": 1,
+      "nome": "Boca-Cola",
+      "preço": "R$ 12,35",
+      "diponibilidade": "Em estoque"
+    },
+    {
+      "id": 2,
+      "nome": "Sproot",
+      "preço": "R$ 8,35",
+      "diponibilidade": "Em estoque"
+    },
+    {
+      "id": 3,
+      "nome": "Dr.Peepo",
+      "preço": "R$ 11,11",
+      "diponibilidade": "Em estoque"
+    },
+    {
+      "id": 4,
+      "nome": "Tongster",
+      "preço": "R$ 4,35",
+      "diponibilidade": "Sem estoque"
+    }
+  ]
+}
