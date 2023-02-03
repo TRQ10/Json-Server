@@ -2,109 +2,100 @@
   "funcionarios": [
     {
       "id": 1,
-      "nome": "Tiago",
-      "idade": 21,
-      "cargo": "Atendente"
+      "nome": "Matheus Cardoso",
+      "cargo": "Body Piercer",
+      "descrição": " Carioca da gema, Matheus tem paixão por contato com o público e uniu isso a curiosidade por perfuração corporal."
     },
     {
       "id": 2,
-      "nome": "Rogerio",
-      "idade": 48,
-      "cargo": "Hamburgueiro"
+      "nome": "Camila Oliveira",
+      "cargo": "PONTILHISMO, GEOMÉTRICO & LETTERING" ,
+      "descrição": " Nascida no Rio de Janeiro, se interessa por artes desde os 10 anos e desde a adolescência desenvolveu interesse por lettering e tatuagens."
     },
     {
       "id": 3,
-      "nome": "Bruno",
-      "idade": 21,
-      "cargo": "Graçom"
-    },
-    {
-      "id": 4,
       "nome": "Natalia",
-      "idade": 21,
-      "cargo": "Auxiliar de Hamburgueiro"
-    }
+      "cargo": "Blackout",
+      "descrição": ""
+    },
   ],
-  "hamburguers": [
+  "material": [
     {
       "id": 1,
-      "nome": "Montanha",
-      "ingredientes": [
-        "blend bovino",
-        "ovo",
-        "cebola caramelizada",
-        "Mostarda com Mel",
-        "pimenta malagueta",
-        "Pão Brioche"
-      ],
-      "preço": "R$ 55,99"
+      "qt_tintaPreta": 10,
+      "qt_tintaBranca": 8,
+      "qt_tintaVermelha": 12,
+      "qt_tintaAmarela": 15,
+      "qt_tintaAzul": 18
     },
     {
       "id": 2,
-      "nome": "Vegie Frinedly",
-      "ingredientes": [
-        "blend de lentilha",
-        "pepino",
-        "Alface",
-        "tomate",
-        "Cebola",
-        "molho inglês",
-        "Pão Brioche"
-      ],
-      "preço": "R$ 75,99"
+      "qt_filmePlastico": 19,
+      "qt_luva": 14,
+      "qt_vaselina": 20,
+      "qt_protetor": 11
     },
     {
       "id": 3,
-      "nome": "Fish and Chips",
-      "ingredientes": [
-        "blend marinho",
-        "tomate",
-        "Alface",
-        "cebola",
-        "picles",
-        "Limão",
-        "Pão Brioche"
-      ],
-      "preço": "R$ 35,99"
+      "qt_avental": 9,
+      "qt_sacoHosp": 9,
+      "qt_Barbeador": 11
     },
     {
       "id": 4,
-      "nome": "Heart Stopper",
-      "ingredientes": [
-        "blend bovino",
-        "bacon",
-        "Cebola empanada",
-        "Queijo Empanado",
-        "Barbecue",
-        "Pão Brioche selado na manteiga"
-      ],
-      "preço": "R$ 67,99"
+      "qt_agulhas": 16,
+      "qt_maquinas": 16,
+      "qt_Elasticos": 8
     }
   ],
-  "bebidas": [
+    "Tatuagens": [
     {
       "id": 1,
-      "nome": "Boca-Cola",
-      "preço": "R$ 12,35",
-      "diponibilidade": "Em estoque"
+      "tipo_tatuagem": "blackout",
+      "tamanho": "10cm",
+      "preco": "$504.97"
     },
     {
       "id": 2,
-      "nome": "Sproot",
-      "preço": "R$ 8,35",
-      "diponibilidade": "Em estoque"
+      "tipo_tatuagem": "botânica",
+      "tamanho": "20cm",
+      "preco": "$3030.52"
     },
     {
       "id": 3,
-      "nome": "Dr.Peepo",
-      "preço": "R$ 11,11",
-      "diponibilidade": "Em estoque"
+      "tipo_tatuagem": "blackout",
+      "tamanho": "20cm",
+      "preco": "$4229.09"
     },
     {
       "id": 4,
-      "nome": "Tongster",
-      "preço": "R$ 4,35",
-      "diponibilidade": "Sem estoque"
+      "tipo_tatuagem": "anime",
+      "tamanho": "10cm",
+      "preco": "$671.86"
+    },
+    {
+      "id": 5,
+      "tipo_tatuagem": "blackout",
+      "tamanho": "30cm",
+      "preco": "$4733.52"
+    },
+    {
+      "id": 6,
+      "tipo_tatuagem": "botânica",
+      "tamanho": "20cm",
+      "preco": "$2040.55"
+    },
+    {
+      "id": 7,
+      "tipo_tatuagem": "anime",
+      "tamanho": "20cm",
+      "preco": "$2035.80"
+    },
+    {
+      "id": 8,
+      "tipo_tatuagem": "animal",
+      "tamanho": "15cm",
+      "preco": "$1166.30"
     }
-  ]
+   ]
 }
