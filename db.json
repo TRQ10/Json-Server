@@ -64,49 +64,49 @@
       "tipo_tatuagem": "botânica",
       "tamanho": "20cm",
       "preco": "$3030.52",
-      "url": "https://github.com/TRQ10/modulo-3/blob/main/gallery/2.png"
+      "url": "https://raw.githubusercontent.com/TRQ10/modulo-3/main/gallery/2.png"
     },
     {
       "id": 3,
       "tipo_tatuagem": "blackout",
       "tamanho": "20cm",
       "preco": "$4229.09",
-      "url": "https://github.com/TRQ10/modulo-3/blob/main/gallery/3.png"
+      "url": "https://raw.githubusercontent.com/TRQ10/modulo-3/main/gallery/3.png"
     },
     {
       "id": 4,
       "tipo_tatuagem": "anime",
       "tamanho": "10cm",
       "preco": "$671.86",
-      "url": "https://github.com/TRQ10/modulo-3/blob/main/gallery/4.png"
+      "url": "https://raw.githubusercontent.com/TRQ10/modulo-3/main/gallery/4.png"
     },
     {
       "id": 5,
       "tipo_tatuagem": "blackout",
       "tamanho": "30cm",
       "preco": "$4733.52",
-      "url": "https://github.com/TRQ10/modulo-3/blob/main/gallery/5.png"
+      "url": "https://raw.githubusercontent.com/TRQ10/modulo-3/main/gallery/5.jpg"
     },
     {
       "id": 6,
       "tipo_tatuagem": "botânica",
       "tamanho": "20cm",
       "preco": "$2040.55",
-      "url": "https://github.com/TRQ10/modulo-3/blob/main/gallery/6.png"
+      "url": "https://raw.githubusercontent.com/TRQ10/modulo-3/main/gallery/6.jpg"
     },
     {
       "id": 7,
       "tipo_tatuagem": "anime",
       "tamanho": "20cm",
       "preco": "$2035.80",
-      "url": "https://github.com/TRQ10/modulo-3/blob/main/gallery/7.png"
+      "url": "https://raw.githubusercontent.com/TRQ10/modulo-3/main/gallery/7.jpg"
     },
     {
       "id": 8,
       "tipo_tatuagem": "animal",
       "tamanho": "15cm",
       "preco": "$1166.30",
-      "url": "https://github.com/TRQ10/modulo-3/blob/main/gallery/8.png"
+      "url": "https://raw.githubusercontent.com/TRQ10/modulo-3/main/gallery/8.jpg"
     }
    ]
 }
