@@ -4,15 +4,15 @@
       "id": 1,
       "nome": "Matheus Cardoso",
       "cargo": "BODY PIERCING",
-      "descrição": " Carioca da gema, Matheus tem paixão por contato com o público e uniu isso a curiosidade por perfuração corporal.",
+      "descrição": "Carioca da gema, Matheus tem paixão por contato com o público e uniu isso a curiosidade por perfuração corporal.",
       "url": "https://raw.githubusercontent.com/TRQ10/modulo-3/main/testimonial/matheus.jpg"
     },
     {
       "id": 2,
       "nome": "Camila Oliveira",
       "cargo": "PONTILHISMO, GEOMÉTRICO & LETTERING" ,
-      "descrição": " Nascida no Rio de Janeiro, se interessa por artes desde os 10 anos e desde a adolescência desenvolveu interesse por lettering e tatuagens.",
-      "url": "https://github.com/TRQ10/modulo-3/blob/main/testimonial/camilinha.jpg"
+      "descrição": "Nascida no Rio de Janeiro, se interessa por artes desde os 10 anos e desde a adolescência desenvolveu interesse por lettering e tatuagens.",
+      "url": "https://raw.githubusercontent.com/TRQ10/modulo-3/main/testimonial/camilinha.jpg"
     },
     {
       "id": 3,
